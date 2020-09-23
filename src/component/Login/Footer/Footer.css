@@ -1,0 +1,16 @@
+body{
+    top: 700px;
+}
+.footer{
+
+    height: 200px;
+    background-color:rgb(58, 2, 110);
+    display: flex;
+  
+}
+ul{
+    margin-top: 50px;
+}
+li{
+    color: white;
+}

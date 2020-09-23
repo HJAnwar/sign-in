@@ -1,0 +1,21 @@
+.headerArea{
+    text-align: center;
+}
+.headerArea nav{
+    line-height: 40px;
+    background-color: rgb(58, 2, 110);
+    font-size: 25px;
+}
+nav a{
+    margin-left: 40px;
+    color: white;
+    border: none;
+    text-decoration: none;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: bisque;
+}
+p{
+    color: white;
+}
